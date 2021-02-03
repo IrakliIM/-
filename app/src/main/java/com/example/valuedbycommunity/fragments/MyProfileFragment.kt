@@ -1,4 +1,8 @@
 package com.example.valuedbycommunity.fragments
 
-class MyProfileFragment {
+import androidx.fragment.app.Fragment
+import com.example.valuedbycommunity.R
+
+class MyProfileFragment : Fragment(R.layout.fragment_my_profile) {
+
 }

@@ -1,4 +1,8 @@
 package com.example.valuedbycommunity.fragments
 
-class NewPostPageFragment {
+import androidx.fragment.app.Fragment
+import com.example.valuedbycommunity.R
+
+class NewPostPageFragment : Fragment(R.layout.fragment_new_post_page) {
+
 }

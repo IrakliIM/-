@@ -1,4 +1,8 @@
 package com.example.valuedbycommunity.fragments
 
-class HomePageFragment {
+import androidx.fragment.app.Fragment
+import com.example.valuedbycommunity.R
+
+class HomePageFragment : Fragment(R.layout.fragment_home_page) {
+
 }

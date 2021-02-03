@@ -45,6 +45,9 @@
             android:id="@+id/registrationButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="რეგისტრაცია" />
+            android:text="რეგისტრაცია"
+            android:textColor="#FF0707" />
+
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
